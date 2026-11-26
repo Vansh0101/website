@@ -1,4 +1,4 @@
-name: ITTechGenie Website CI-CD
+name: Vansh Website CI-CD
 on:
   push:
     branches: [main]
